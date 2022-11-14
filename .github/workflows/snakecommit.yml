@@ -1,5 +1,5 @@
 # Nome da Actions:  
-name: Snake commit
+name: Snake Game
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
